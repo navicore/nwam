@@ -1,3 +1,8 @@
+<!-- ghmig:moved -->
+> **This repository has moved to [https://git.navicore.tech/navicore/nwam](https://git.navicore.tech/navicore/nwam).**
+>
+> The GitHub copy is archived and no longer maintained.
+
 Navicore Warren Abstract Machine
 ===============
 
